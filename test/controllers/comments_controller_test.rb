@@ -46,3 +46,4 @@ class CommentsControllerTest < ActionDispatch::IntegrationTest
     assert_redirected_to comments_url
   end
 end
+
